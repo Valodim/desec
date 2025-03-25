@@ -1,4 +1,4 @@
-module github.com/nrdcg/desec
+module github.com/Valodim/desec
 
 go 1.22
 
